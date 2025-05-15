@@ -6327,3 +6327,33 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15May2025 22:14:50.813] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=626, y=64, z=-196} BlockPos{x=626, y=62, z=-196}
 [15May2025 22:14:50.864] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=626, y=64, z=-196} BlockPos{x=626, y=62, z=-196}
 [15May2025 22:14:51.063] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=627, y=64, z=-195} BlockPos{x=627, y=62, z=-195}
+[15May2025 22:17:00.910] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asias_SX[/127.57.62.112:40159] logged in with entity id 11337 at (632.5, 64.0, -230.5)
+[15May2025 22:17:00.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX joined the game
+[15May2025 22:17:00.979] [Server thread/INFO] [Jade/]: Syncing config to Asias_SX (60443e8a-ce41-3db5-b413-f22c7757fd35)
+[15May2025 22:17:00.983] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[60443e8a-ce41-3db5-b413-f22c7757fd35] seen for the first time as 'Player:'Asias_SX'['overworld']'
+[15May2025 22:17:03.133] [Server thread/INFO] [ping-wheel/]: Channel update: Asias_SX -> default
+[15May2025 22:17:03.155] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Asias_SX (18)
+[15May2025 22:17:03.155] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Asias_SX
+[15May2025 22:19:04.904] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[15May2025 22:19:04.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benghijairo_GT> no salgas es de nopche
+[15May2025 22:19:13.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benghijairo_GT> activa tu chat de voz
+[15May2025 22:19:29.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benghijairo_GT> presiona V
+[15May2025 22:19:46.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asias_SX> estoy en llamada
+[15May2025 22:20:42.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benghijairo_GT> unete al grupo
+[15May2025 22:20:54.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benghijairo_GT> resiona V y has cilck en grupo
+[15May2025 22:21:57.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX was slain by benghijairo_GT
+[15May2025 22:21:59.242] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[60443e8a-ce41-3db5-b413-f22c7757fd35] updated from 'Player:'Asias_SX'['overworld']' to 'Player:'Asias_SX'['overworld']'
+[15May2025 22:22:08.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benghijairo_GT> xddddddddddddddddddddd
+[15May2025 22:22:23.095] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[15May2025 22:22:27.093] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[15May2025 22:22:54.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benghijairo_GT> parece q si
+[15May2025 22:23:59.443] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[15May2025 22:24:01.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benghijairo_GT> mano hay un mega creeper afuera
+[15May2025 22:25:50.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benghijairo_GT> toma tus cosas
+[15May2025 22:27:20.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX has made the advancement [First Day]
+[15May2025 22:27:32.643] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[15May2025 22:30:34.568] [Worker-Main-55/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_049
+[15May2025 22:30:38.007] [Worker-Main-86/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_966
+[15May2025 22:30:38.182] [IO-Worker-115/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/nbt/StreamTagVisitor$ValueResult
+[15May2025 22:30:38.183] [IO-Worker-115/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/nbt/StreamTagVisitor$EntryResult
+[15May2025 22:32:46.494] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already

@@ -73,7 +73,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "coniferous_forest": "2025-05-15 21:36:15 +0000"
+      "coniferous_forest": "2025-05-15 21:36:15 +0000",
+      "seasonal_forest": "2025-05-15 22:15:40 +0000"
     },
     "done": false
   },
@@ -2012,6 +2013,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2025-05-15 22:29:45 +0000",
       "beetroot": "2025-05-15 21:59:36 +0000"
     },
     "done": false
@@ -2094,6 +2096,72 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/fir_biomesoplenty_simple_bunk_ladder": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:24:24 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:24:24 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:24:24 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:24:24 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:24:24 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:24:24 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-05-15 22:21:08 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_table_basic": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:24:24 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-05-15 22:21:08 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:21:08 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:24:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2025-05-15 22:10:38 +0000"
@@ -2106,15 +2174,189 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:24:24 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:24:24 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_fir_planks": "2025-05-15 22:24:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-05-15 22:14:49 +0000"
+    },
+    "done": true
+  },
   "thingamajigs:recipes/building_blocks/tissue_box": {
     "criteria": {
       "get_wterra_block": "2025-05-15 22:10:00 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/fir_biomesoplenty_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-15 22:14:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_chair": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:24:24 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:24:24 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:21:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:24:24 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:24:24 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:21:08 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:24:24 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_table_log": {
+    "criteria": {
+      "has_log": "2025-05-15 22:24:24 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:24:24 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:24:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-05-15 22:10:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-05-15 22:21:08 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_log_stool": {
+    "criteria": {
+      "has_log": "2025-05-15 22:21:08 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:21:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-05-15 22:21:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-05-15 22:21:08 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/building_blocks/prismarine_shard_from_seashells": {
+    "criteria": {
+      "has_seashells": "2025-05-15 22:22:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:24:24 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:21:08 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:24:24 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:21:08 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_table_classic": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:24:24 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:24:24 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:21:08 +0000"
     },
     "done": true
   },
