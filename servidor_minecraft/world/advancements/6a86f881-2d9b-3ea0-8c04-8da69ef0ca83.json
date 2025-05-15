@@ -89,6 +89,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-05-15 23:12:11 +0000",
       "minecraft:beach": "2025-05-15 21:36:40 +0000",
       "minecraft:cold_ocean": "2025-05-15 22:10:30 +0000"
     },
@@ -2016,6 +2017,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-05-15 23:11:35 +0000",
       "bread": "2025-05-15 22:29:45 +0000",
       "beetroot": "2025-05-15 21:59:36 +0000"
     },
@@ -2417,6 +2419,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-15 23:19:26 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/bamboo_light_gray_simple_bed": {
     "criteria": {
       "has_bed": "2025-05-15 23:05:35 +0000"
@@ -2459,9 +2467,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_table_classic": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:19:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_cabinetry": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-15 23:19:26 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/torch_button": {
     "criteria": {
       "has_thing": "2025-05-15 22:53:51 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/dark_oak_plank_secret_button": {
+    "criteria": {
+      "has_thing": "2025-05-15 23:19:26 +0000"
     },
     "done": true
   },
@@ -2480,6 +2506,18 @@
   "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2025-05-15 22:56:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_crate": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-15 23:19:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:19:26 +0000"
     },
     "done": true
   },
@@ -2537,9 +2575,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-15 23:19:26 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-05-15 23:04:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-15 23:19:26 +0000"
     },
     "done": true
   },
@@ -2579,6 +2629,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:19:26 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/green_simple_sofa": {
     "criteria": {
       "has_wool": "2025-05-15 22:48:13 +0000"
@@ -2588,6 +2644,12 @@
   "create:recipes/misc/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2025-05-15 23:04:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_cutting_board": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-15 23:19:26 +0000"
     },
     "done": true
   },
@@ -2609,9 +2671,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-15 23:19:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:19:26 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-05-15 23:04:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:19:26 +0000"
     },
     "done": true
   },
@@ -2621,9 +2701,27 @@
     },
     "done": true
   },
+  "xkdeco:recipes/building_blocks/ebony_planks_from_smoking": {
+    "criteria": {
+      "has_item": "2025-05-15 23:19:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_mail_box": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-15 23:19:26 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/warped_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-05-15 23:04:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_storage_jar": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-15 23:19:26 +0000"
     },
     "done": true
   },
@@ -2636,6 +2734,12 @@
   "pfm:recipes/furniture/cherry_red_classic_bed": {
     "criteria": {
       "has_bed": "2025-05-15 22:56:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:19:26 +0000"
     },
     "done": true
   },
@@ -2831,6 +2935,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:19:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-05-15 22:48:13 +0000"
@@ -2852,6 +2962,12 @@
   "securitycraft:recipes/misc/speed_module": {
     "criteria": {
       "has_iron": "2025-05-15 23:04:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2025-05-15 23:13:56 +0000"
     },
     "done": true
   },
@@ -2933,9 +3049,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:19:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_table_log": {
+    "criteria": {
+      "has_log": "2025-05-15 23:19:26 +0000"
+    },
+    "done": true
+  },
   "xkdeco:recipes/building_blocks/varnished_log_from_smoking": {
     "criteria": {
       "has_item": "2025-05-15 22:48:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-15 23:19:26 +0000"
     },
     "done": true
   },
@@ -3077,6 +3211,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:19:26 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_oak_light_gray_classic_bed": {
     "criteria": {
       "has_bed": "2025-05-15 23:05:35 +0000"
@@ -3086,6 +3226,18 @@
   "farmersdelight:recipes/cooking/cabbage_rolls": {
     "criteria": {
       "has_any_ingredient": "2025-05-15 22:58:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_table_basic": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:19:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-15 23:19:26 +0000"
     },
     "done": true
   },
@@ -3110,6 +3262,12 @@
   "pfm:recipes/furniture/white_simple_sofa": {
     "criteria": {
       "has_wool": "2025-05-15 22:48:13 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:19:26 +0000"
     },
     "done": true
   },
@@ -3167,6 +3325,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:19:26 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/gray_simple_sofa": {
     "criteria": {
       "has_wool": "2025-05-15 22:48:13 +0000"
@@ -3188,6 +3352,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-05-15 23:04:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:19:26 +0000"
     },
     "done": true
   },
@@ -3224,6 +3394,12 @@
   "pfm:recipes/furniture/bamboo_red_simple_bed": {
     "criteria": {
       "has_bed": "2025-05-15 22:56:21 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:19:26 +0000"
     },
     "done": true
   },
@@ -3527,6 +3703,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_simple_bunk_ladder": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:19:26 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/hellbark_biomesoplenty_red_simple_bed": {
     "criteria": {
       "has_bed": "2025-05-15 22:56:21 +0000"
@@ -3815,6 +3997,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-15 23:13:56 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/dark_oak_large_button": {
+    "criteria": {
+      "has_thing": "2025-05-15 23:19:26 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/warped_red_classic_bed": {
     "criteria": {
       "has_bed": "2025-05-15 22:56:21 +0000"
@@ -3824,6 +4018,12 @@
   "securitycraft:recipes/misc/camera_monitor": {
     "criteria": {
       "has_iron": "2025-05-15 23:04:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:19:26 +0000"
     },
     "done": true
   },
@@ -3917,6 +4117,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:19:26 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_bath": {
     "criteria": {
       "has_iron_ingot": "2025-05-15 23:04:09 +0000"
@@ -3932,6 +4138,18 @@
   "pfm:recipes/furniture/iron_microwave": {
     "criteria": {
       "has_iron_ingot": "2025-05-15 23:04:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:19:26 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/doorbell": {
+    "criteria": {
+      "has_thing": "2025-05-15 23:19:26 +0000"
     },
     "done": true
   },
@@ -4004,6 +4222,12 @@
   "xkdeco:recipes/building_blocks/podzol_slab_from_dirt_stonecutting": {
     "criteria": {
       "has_dirt": "2025-05-15 23:01:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:19:26 +0000"
     },
     "done": true
   },
@@ -4121,6 +4345,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-15 23:19:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2025-05-15 22:56:26 +0000"
@@ -4136,6 +4366,24 @@
   "infinitybuttons:recipe/redstone/iron_large_button": {
     "criteria": {
       "has_thing": "2025-05-15 23:04:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:19:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:19:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-05-15 23:13:56 +0000"
     },
     "done": true
   },
@@ -4211,6 +4459,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-05-15 23:13:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-05-15 22:56:26 +0000"
@@ -4253,9 +4507,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:19:26 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/doorbell_button_2": {
+    "criteria": {
+      "has_thing": "2025-05-15 23:19:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-05-15 22:56:26 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/doorbell_button_1": {
+    "criteria": {
+      "has_thing": "2025-05-15 23:19:26 +0000"
     },
     "done": true
   },
@@ -4292,6 +4564,12 @@
   "pfm:recipes/furniture/oak_log_stool": {
     "criteria": {
       "has_log": "2025-05-15 22:48:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_desk": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-15 23:19:26 +0000"
     },
     "done": true
   },

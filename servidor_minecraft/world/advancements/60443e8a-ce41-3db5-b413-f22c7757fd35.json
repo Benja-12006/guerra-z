@@ -73,6 +73,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "maple_woods": "2025-05-15 23:10:01 +0000",
       "coniferous_forest": "2025-05-15 22:17:01 +0000",
       "seasonal_orchard": "2025-05-15 22:33:37 +0000",
       "seasonal_forest": "2025-05-15 22:52:30 +0000",
@@ -88,6 +89,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-05-15 23:12:18 +0000",
       "minecraft:beach": "2025-05-15 22:17:42 +0000"
     },
     "done": false
@@ -1442,6 +1444,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-15 23:12:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-05-15 22:45:26 +0000"
@@ -1457,6 +1465,12 @@
   "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-15 22:45:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/palm_biomesoplenty_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
     },
     "done": true
   },
@@ -1484,15 +1498,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:16:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_glass_pane": {
     "criteria": {
       "has_glass": "2025-05-15 23:02:36 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_cutting_board": {
+    "criteria": {
+      "has_birch_planks": "2025-05-15 23:16:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/dark_oak_window": {
     "criteria": {
       "has_ingredient": "2025-05-15 23:02:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dead_biomesoplenty_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/magic_biomesoplenty_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
     },
     "done": true
   },
@@ -1511,6 +1549,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_cabinetry": {
     "criteria": {
       "has_dark_oak_planks": "2025-05-15 23:02:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:16:18 +0000"
     },
     "done": true
   },
@@ -1580,6 +1624,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:16:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_bath": {
+    "criteria": {
+      "has_birch_planks": "2025-05-15 23:16:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2025-05-15 22:59:26 +0000"
@@ -1604,6 +1660,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_toilet": {
+    "criteria": {
+      "has_birch_planks": "2025-05-15 23:16:18 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_oak_table_modern_dinner": {
     "criteria": {
       "has_planks": "2025-05-15 23:02:23 +0000"
@@ -1613,6 +1681,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_cutting_board": {
     "criteria": {
       "has_dark_oak_planks": "2025-05-15 23:02:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:16:18 +0000"
     },
     "done": true
   },
@@ -1646,6 +1720,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/birch_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:16:18 +0000"
+    },
+    "done": true
+  },
   "xkdeco:recipes/building_blocks/ebony_planks_from_smoking": {
     "criteria": {
       "has_item": "2025-05-15 23:02:23 +0000"
@@ -1670,6 +1750,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/warped_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-05-15 23:02:23 +0000"
@@ -1691,6 +1783,12 @@
   "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-15 23:02:36 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
     },
     "done": true
   },
@@ -1766,6 +1864,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/bamboo_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_storage_jar": {
+    "criteria": {
+      "has_birch_planks": "2025-05-15 23:16:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-15 22:45:26 +0000"
@@ -1787,6 +1897,12 @@
   "pfm:recipes/furniture/dark_oak_modern_stool": {
     "criteria": {
       "has_planks": "2025-05-15 23:02:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
     },
     "done": true
   },
@@ -1832,6 +1948,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_light_ceiling_fan": {
+    "criteria": {
+      "has_birch_planks": "2025-05-15 23:16:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_bamboo_fence": {
     "criteria": {
       "has_stick": "2025-05-15 22:45:26 +0000"
@@ -1841,6 +1963,12 @@
   "securitycraft:recipes/misc/reinforced_crimson_fence": {
     "criteria": {
       "has_stick": "2025-05-15 22:45:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_desk": {
+    "criteria": {
+      "has_birch_planks": "2025-05-15 23:16:18 +0000"
     },
     "done": true
   },
@@ -1904,6 +2032,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/birch_table_log": {
+    "criteria": {
+      "has_log": "2025-05-15 23:16:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-15 23:02:36 +0000"
@@ -1922,6 +2056,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/birch_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence": {
     "criteria": {
       "has_stick": "2025-05-15 22:45:26 +0000"
@@ -1937,6 +2077,12 @@
   "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
     "criteria": {
       "has_wool": "2025-05-15 22:59:26 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/brick": {
+    "criteria": {
+      "has_copper_block": "2025-05-15 23:16:20 +0000"
     },
     "done": true
   },
@@ -1982,6 +2128,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/birch_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:16:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-05-15 22:48:23 +0000"
@@ -1991,6 +2143,12 @@
   "pfm:recipes/furniture/dark_oak_chair_modern": {
     "criteria": {
       "has_planks": "2025-05-15 23:02:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/redwood_biomesoplenty_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
     },
     "done": true
   },
@@ -2018,6 +2176,24 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/palm_biomesoplenty_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/redwood_biomesoplenty_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-05-15 23:16:20 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-05-15 23:02:36 +0000"
@@ -2030,9 +2206,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-05-15 23:16:20 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-15 23:02:36 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_chair": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:16:18 +0000"
     },
     "done": true
   },
@@ -2072,6 +2260,24 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/mangrove_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_table_classic": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:16:18 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/deepslate_table_dinner": {
     "criteria": {
       "deepslate_table_dinner": "2025-05-15 22:48:23 +0000"
@@ -2102,9 +2308,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_drawer": {
+    "criteria": {
+      "has_birch_planks": "2025-05-15 23:16:18 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dead_biomesoplenty_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_table": {
+    "criteria": {
+      "has_birch_planks": "2025-05-15 23:16:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-05-15 23:02:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_birch_planks": "2025-05-15 23:16:18 +0000"
     },
     "done": true
   },
@@ -2144,9 +2374,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:16:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-05-15 23:02:36 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
     },
     "done": true
   },
@@ -2159,6 +2413,24 @@
   "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-05-15 23:02:36 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:16:18 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-05-15 23:12:21 +0000"
     },
     "done": true
   },
@@ -2222,6 +2494,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/birch_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-15 23:16:18 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jacaranda_biomesoplenty_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_green_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-05-15 23:02:36 +0000"
@@ -2231,6 +2515,12 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence": {
     "criteria": {
       "has_stick": "2025-05-15 22:45:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_crate": {
+    "criteria": {
+      "has_birch_planks": "2025-05-15 23:16:18 +0000"
     },
     "done": true
   },
@@ -2264,6 +2554,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-15 23:12:21 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_toilet": {
     "criteria": {
       "has_dark_oak_planks": "2025-05-15 23:02:23 +0000"
@@ -2294,6 +2596,30 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-15 23:12:21 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_sink": {
+    "criteria": {
+      "has_birch_planks": "2025-05-15 23:16:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:16:18 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/willow_biomesoplenty_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-05-15 22:59:26 +0000"
@@ -2318,6 +2644,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/hellbark_biomesoplenty_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-15 22:45:26 +0000"
@@ -2330,11 +2662,41 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/birch_simple_bunk_ladder": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:16:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_drawer": {
+    "criteria": {
+      "has_birch_planks": "2025-05-15 23:16:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:zombie": "2025-05-15 22:49:45 +0000"
     },
     "done": false
+  },
+  "pfm:recipes/furniture/crimson_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_storage_cabinet": {
+    "criteria": {
+      "has_birch_planks": "2025-05-15 23:16:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:16:18 +0000"
+    },
+    "done": true
   },
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_glass": {
     "criteria": {
@@ -2357,6 +2719,12 @@
   "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-15 23:02:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:16:18 +0000"
     },
     "done": true
   },
@@ -2384,6 +2752,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/oak_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-05-15 22:45:26 +0000"
@@ -2408,9 +2788,39 @@
     },
     "done": true
   },
+  "infinitybuttons:recipe/redstone/birch_plank_secret_button": {
+    "criteria": {
+      "has_thing": "2025-05-15 23:16:18 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:16:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_cabinetry": {
+    "criteria": {
+      "has_birch_planks": "2025-05-15 23:16:18 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/umbran_biomesoplenty_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-05-15 22:45:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/magic_biomesoplenty_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
     },
     "done": true
   },
@@ -2447,6 +2857,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_tripwire_hook": "2025-05-15 23:05:40 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
     },
     "done": true
   },
@@ -2498,15 +2914,39 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/birch_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:16:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_basin": {
+    "criteria": {
+      "has_birch_planks": "2025-05-15 23:16:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-05-15 23:01:52 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/willow_biomesoplenty_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-15 23:02:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/rubber_thingamajigs_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
     },
     "done": true
   },
@@ -2552,15 +2992,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-05-15 23:12:21 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/deepslate_simple_stool": {
     "criteria": {
       "has_planks": "2025-05-15 22:48:23 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-05-15 23:16:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-05-15 22:59:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/rubber_thingamajigs_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
     },
     "done": true
   },
@@ -2582,9 +3040,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-05-15 23:16:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
     "criteria": {
       "has_wool": "2025-05-15 22:59:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/umbran_biomesoplenty_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-15 23:12:21 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
     },
     "done": true
   },
@@ -2603,6 +3085,12 @@
   "securitycraft:recipes/misc/reinforced_jungle_fence": {
     "criteria": {
       "has_stick": "2025-05-15 22:45:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/hellbark_biomesoplenty_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
     },
     "done": true
   },
@@ -2627,6 +3115,18 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-05-15 22:47:57 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/birch_large_button": {
+    "criteria": {
+      "has_thing": "2025-05-15 23:16:18 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jacaranda_biomesoplenty_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
     },
     "done": true
   },
@@ -2696,6 +3196,24 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/birch_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-15 22:45:26 +0000"
@@ -2705,6 +3223,12 @@
   "securitycraft:recipes/redstone/reinforced_warped_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-15 22:45:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:16:18 +0000"
     },
     "done": true
   },
@@ -2726,6 +3250,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/jungle_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence": {
     "criteria": {
       "has_stick": "2025-05-15 22:45:26 +0000"
@@ -2741,6 +3277,12 @@
   "infinitybuttons:recipe/redstone/doorbell_button_2": {
     "criteria": {
       "has_thing": "2025-05-15 23:02:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:16:18 +0000"
     },
     "done": true
   },
@@ -2762,15 +3304,39 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/birch_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:16:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2025-05-15 22:59:26 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_mail_box": {
+    "criteria": {
+      "has_birch_planks": "2025-05-15 23:16:18 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/deepslate_chair_classic": {
     "criteria": {
       "deepslate_chair_classic": "2025-05-15 22:48:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:16:18 +0000"
     },
     "done": true
   },
@@ -2798,9 +3364,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-05-15 23:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:16:18 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2025-05-15 22:45:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mahogany_biomesoplenty_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-05-15 23:18:22 +0000"
     },
     "done": true
   },
@@ -2813,6 +3397,12 @@
   "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
     "criteria": {
       "has_wool": "2025-05-15 22:59:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_table_basic": {
+    "criteria": {
+      "has_planks": "2025-05-15 23:16:18 +0000"
     },
     "done": true
   },
