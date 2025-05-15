@@ -6272,3 +6272,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15May2025 21:39:36.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT left the game
 [15May2025 21:39:36.554] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client benghijairo_GT
 [15May2025 21:39:37.187] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/util/BranchDestructionData$PosType
+[15May2025 21:53:39.531] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benghijairo_GT[/127.119.26.239:50005] logged in with entity id 2278 at (597.7515423285853, 64.0, -188.18195923298518)
+[15May2025 21:53:39.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT joined the game
+[15May2025 21:53:39.608] [Server thread/INFO] [Jade/]: Syncing config to benghijairo_GT (6a86f881-2d9b-3ea0-8c04-8da69ef0ca83)
+[15May2025 21:53:39.612] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'
+[15May2025 21:53:39.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT has made the advancement [First Day]
+[15May2025 21:53:39.776] [Server thread/INFO] [ping-wheel/]: Channel update: benghijairo_GT -> default
+[15May2025 21:53:39.776] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of benghijairo_GT (18)
+[15May2025 21:53:39.776] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to benghijairo_GT
+[15May2025 21:54:19.282] [Worker-Main-55/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_3199
+[15May2025 21:54:46.096] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[15May2025 21:54:53.394] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[15May2025 21:55:02.677] [Worker-Main-59/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_049
