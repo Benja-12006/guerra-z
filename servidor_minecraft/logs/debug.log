@@ -22175,3 +22175,52 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15May2025 22:52:43.050] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[60443e8a-ce41-3db5-b413-f22c7757fd35] updated from 'Player:'Asias_SX'['overworld']' to 'Player:'Asias_SX'['overworld']'
 [15May2025 22:52:44.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made benghiejairo_gt a server operator
 [15May2025 22:52:56.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [benghijairo_GT: Teleported Asias_SX to benghijairo_GT]
+[15May2025 22:53:51.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT has made the advancement [Getting an Upgrade]
+[15May2025 22:54:48.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15May2025 22:54:48.911] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15May2025 22:55:03.783] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[15May2025 22:55:29.799] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of horror_element_mod:small_labyrinth
+[15May2025 22:55:35.507] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=950, y=85, z=-209}
+[15May2025 22:55:35.507] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dtbop:yellow_autumn}
+[15May2025 22:55:35.507] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 3
+[15May2025 22:55:35.507] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JJOOJ1xeJ79fWOPXnSPbJMP
+[15May2025 22:55:35.509] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Second attempt for code JJOOJ1xeJ79fWOPXnSPbJMP has also failed
+[15May2025 22:55:36.976] [Worker-Main-3/DEBUG] [mixin/]: Mixing StructurePlacementLogging from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[15May2025 22:55:36.994] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_large_room_0
+[15May2025 22:55:37.003] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_corridor_terminator_0
+[15May2025 22:55:37.026] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_catwalk_corridor_4
+[15May2025 22:55:53.135] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/129, l='ServerLevel[world]', x=841.46, y=65.00, z=46.43] died, message: 'Mason tried to cross barbed wire'
+[15May2025 22:56:07.034] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[15May2025 22:56:07.035] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[15May2025 22:57:48.022] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=1060, y=74, z=256}
+[15May2025 22:57:48.022] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: MapleSpecies{registryName=dtbop:maple}
+[15May2025 22:57:48.022] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 4
+[15May2025 22:57:48.022] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JJJxOOOOOP06+q7fj6RPkhPtOJOvfv
+[15May2025 22:57:48.023] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Second attempt for code JJJxOOOOOP06+q7fj6RPkhPtOJOvfv has also failed
+[15May2025 22:57:56.183] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[15May2025 22:59:48.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15May2025 22:59:48.924] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15May2025 23:00:23.383] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER
+[15May2025 23:00:23.383] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.ferreusveritas.dynamictrees.block.rooty.RootyBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[15May2025 23:00:58.434] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[15May2025 23:01:05.737] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[15May2025 23:01:05.737] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[15May2025 23:01:11.237] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[15May2025 23:01:11.237] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[15May2025 23:01:20.162] [Server thread/DEBUG] [mixin/]: Mixing MixinFluidBucketWrapper from thirst.mixin.json into net.minecraftforge.fluids.capability.wrappers.FluidBucketWrapper
+[15May2025 23:02:07.804] [Server thread/DEBUG] [mixin/]: Mixing MixinFluidUtil from thirst.mixin.json into net.minecraftforge.fluids.FluidUtil
+[15May2025 23:02:07.808] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[15May2025 23:03:03.853] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[15May2025 23:03:04.738] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[15May2025 23:03:05.237] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[15May2025 23:03:05.737] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[15May2025 23:03:06.237] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[15May2025 23:03:06.737] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[15May2025 23:03:06.742] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[15May2025 23:03:07.238] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[15May2025 23:03:07.739] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[15May2025 23:03:08.235] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[15May2025 23:03:08.737] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[15May2025 23:03:09.237] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[15May2025 23:03:09.736] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[15May2025 23:03:10.237] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
