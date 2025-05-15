@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "c503e28e-7955-3233-88b6-b477aef0031c",
+    "name": "benghiejairo_gt",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "6a86f881-2d9b-3ea0-8c04-8da69ef0ca83",
     "name": "benghijairo_GT",
     "level": 4,
