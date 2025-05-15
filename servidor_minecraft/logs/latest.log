@@ -6292,3 +6292,38 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15May2025 22:00:19.044] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
 [15May2025 22:02:20.794] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
 [15May2025 22:02:20.794] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[15May2025 22:06:13.100] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benghijairo_GT lost connection: Disconnected
+[15May2025 22:06:13.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT left the game
+[15May2025 22:06:13.101] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client benghijairo_GT
+[15May2025 22:08:25.118] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benghijairo_GT[/127.119.26.239:43989] logged in with entity id 6165 at (603.43272567436, 60.0, -187.30000001192093)
+[15May2025 22:08:25.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT joined the game
+[15May2025 22:08:25.201] [Server thread/INFO] [Jade/]: Syncing config to benghijairo_GT (6a86f881-2d9b-3ea0-8c04-8da69ef0ca83)
+[15May2025 22:08:25.207] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'
+[15May2025 22:08:25.367] [Server thread/INFO] [ping-wheel/]: Channel update: benghijairo_GT -> default
+[15May2025 22:08:25.367] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of benghijairo_GT (18)
+[15May2025 22:08:25.368] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to benghijairo_GT
+[15May2025 22:09:17.194] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[15May2025 22:10:59.659] [Worker-Main-55/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_939_biped
+[15May2025 22:10:59.839] [Worker-Main-81/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_966
+[15May2025 22:11:01.096] [Worker-Main-85/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
+[15May2025 22:11:04.094] [Worker-Main-55/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/memory/MemoryStatus
+[15May2025 22:11:04.095] [Worker-Main-55/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/Behavior$Status
+[15May2025 22:11:04.109] [Worker-Main-55/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$OrderPolicy
+[15May2025 22:11:04.111] [Worker-Main-55/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$RunningPolicy
+[15May2025 22:11:04.184] [Worker-Main-55/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[15May2025 22:11:06.292] [Worker-Main-86/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_3199
+[15May2025 22:11:08.543] [Worker-Main-85/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=31}
+[15May2025 22:11:08.544] [Worker-Main-85/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=31}
+[15May2025 22:11:08.544] [Worker-Main-85/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=43}
+[15May2025 22:11:08.544] [Worker-Main-85/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=43}
+[15May2025 22:11:08.544] [Worker-Main-85/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=40}
+[15May2025 22:11:08.544] [Worker-Main-85/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=33}
+[15May2025 22:11:08.545] [Worker-Main-85/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=40}
+[15May2025 22:11:08.545] [Worker-Main-85/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=33}
+[15May2025 22:14:27.510] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/flansmod/common/actions/contexts/GunContext$EItemStackLinkage
+[15May2025 22:14:27.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT was crushed by a falling tree
+[15May2025 22:14:42.393] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'
+[15May2025 22:14:46.145] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[15May2025 22:14:50.813] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=626, y=64, z=-196} BlockPos{x=626, y=62, z=-196}
+[15May2025 22:14:50.864] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=626, y=64, z=-196} BlockPos{x=626, y=62, z=-196}
+[15May2025 22:14:51.063] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=627, y=64, z=-195} BlockPos{x=627, y=62, z=-195}
