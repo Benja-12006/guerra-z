@@ -733,6 +733,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:creeper": "2025-05-15 23:27:06 +0000",
       "minecraft:zombie": "2025-05-15 21:56:32 +0000"
     },
     "done": false
@@ -2539,6 +2540,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-05-15 23:29:02 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-05-15 22:48:13 +0000"
@@ -3085,6 +3092,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-15 23:29:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-05-15 23:04:09 +0000"
@@ -3250,6 +3263,18 @@
   "pfm:recipes/furniture/umbran_biomesoplenty_light_gray_simple_bed": {
     "criteria": {
       "has_bed": "2025-05-15 23:05:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-15 23:29:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-15 23:29:02 +0000"
     },
     "done": true
   },
@@ -3691,6 +3716,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-05-15 23:28:02 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/willow_biomesoplenty_red_classic_bed": {
     "criteria": {
       "has_bed": "2025-05-15 22:56:21 +0000"
@@ -3796,6 +3827,12 @@
   "pfm:recipes/furniture/bamboo_light_gray_classic_bed": {
     "criteria": {
       "has_bed": "2025-05-15 23:05:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-05-15 23:29:02 +0000"
     },
     "done": true
   },
@@ -4192,6 +4229,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-05-15 23:04:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-15 23:29:02 +0000"
     },
     "done": true
   },
@@ -4636,6 +4679,12 @@
   "refurbished_furniture:recipes/misc/constructing/mangrove_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-05-15 23:04:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-05-15 23:28:02 +0000"
     },
     "done": true
   },

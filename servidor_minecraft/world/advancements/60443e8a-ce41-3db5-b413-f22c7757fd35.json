@@ -1534,6 +1534,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2025-05-15 23:28:29 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_oak_table_classic": {
     "criteria": {
       "has_planks": "2025-05-15 23:02:23 +0000"
@@ -2191,6 +2197,12 @@
   "farmersdelight:recipes/decorations/skillet": {
     "criteria": {
       "has_brick": "2025-05-15 23:16:20 +0000"
+    },
+    "done": true
+  },
+  "thingamajigs:recipes/building_blocks/tissue_box": {
+    "criteria": {
+      "get_wterra_block": "2025-05-15 23:28:29 +0000"
     },
     "done": true
   },
