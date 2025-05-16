@@ -5557,5 +5557,47 @@
     },
     "done": true
   },
+  "thingamajigs:recipes/building_blocks/iron_table": {
+    "criteria": {
+      "has_thingy": "2025-05-16 04:33:11 +0000"
+    },
+    "done": true
+  },
+  "thingamajigs:recipes/building_blocks/gears_block": {
+    "criteria": {
+      "get_iron_block": "2025-05-16 04:33:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-16 04:33:11 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/factory_block_from_iron_block_stonecutting": {
+    "criteria": {
+      "has_iron_block": "2025-05-16 04:33:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-16 04:33:11 +0000"
+    },
+    "done": true
+  },
+  "thingamajigs:recipes/decorations/steel_block": {
+    "criteria": {
+      "has_thing": "2025-05-16 04:33:11 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/steel_block": {
+    "criteria": {
+      "has_item": "2025-05-16 04:33:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
