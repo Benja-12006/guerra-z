@@ -5527,3 +5527,25 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16May2025 03:02:03.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius was killed by magic whilst trying to escape Runner
 [16May2025 03:02:05.139] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[72f7c3b9-aac8-3ff4-a7ee-ecb698d17541] updated from 'Player:'natusaurius'['overworld']' to 'Player:'natusaurius'['overworld']'
 [16May2025 03:05:14.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [benghijairo_GT: Teleported natusaurius to benghijairo_GT]
+[16May2025 03:07:42.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius was killed by magic whilst trying to escape Infected Juggernaut
+[16May2025 03:07:43.790] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[72f7c3b9-aac8-3ff4-a7ee-ecb698d17541] updated from 'Player:'natusaurius'['overworld']' to 'Player:'natusaurius'['overworld']'
+[16May2025 03:08:12.342] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[16May2025 03:08:24.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius was killed by magic whilst trying to escape Runner
+[16May2025 03:08:25.858] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[72f7c3b9-aac8-3ff4-a7ee-ecb698d17541] updated from 'Player:'natusaurius'['overworld']' to 'Player:'natusaurius'['overworld']'
+[16May2025 03:09:31.595] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: natusaurius lost connection: Disconnected
+[16May2025 03:09:31.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius left the game
+[16May2025 03:09:31.596] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client natusaurius
+[16May2025 03:09:48.259] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: natusaurius[/127.208.98.187:37735] logged in with entity id 7404 at (2445.353496090778, 74.22149363870948, -122.59366310634157)
+[16May2025 03:09:48.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius joined the game
+[16May2025 03:09:48.294] [Server thread/INFO] [Jade/]: Syncing config to natusaurius (72f7c3b9-aac8-3ff4-a7ee-ecb698d17541)
+[16May2025 03:09:48.296] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[72f7c3b9-aac8-3ff4-a7ee-ecb698d17541] updated from 'Player:'natusaurius'['overworld']' to 'Player:'natusaurius'['overworld']'
+[16May2025 03:09:48.557] [Server thread/INFO] [ping-wheel/]: Channel update: natusaurius -> default
+[16May2025 03:09:48.557] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of natusaurius (18)
+[16May2025 03:09:48.558] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to natusaurius
+[16May2025 03:11:27.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius was killed by magic whilst trying to escape Revived
+[16May2025 03:11:29.102] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[72f7c3b9-aac8-3ff4-a7ee-ecb698d17541] updated from 'Player:'natusaurius'['overworld']' to 'Player:'natusaurius'['overworld']'
+[16May2025 03:12:48.882] [Worker-Main-1/INFO] [ModernFix/]: Instantiating Mojang DFU
+[16May2025 03:14:11.191] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[16May2025 03:14:16.190] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[16May2025 03:14:24.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius has made the advancement [Stone Age]
+[16May2025 03:14:51.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius has made the advancement [Getting an Upgrade]
