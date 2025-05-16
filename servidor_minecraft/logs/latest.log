@@ -5427,3 +5427,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16May2025 04:09:15.844] [FastSuite Recipe Lookup Thread: 2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting pepjebs/mapatlases/utils/MapType
 [16May2025 04:13:04.948] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/ftb/mods/ftbquests/quest/QuestObjectType
 [16May2025 04:13:16.013] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[16May2025 04:19:02.562] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[16May2025 04:19:21.721] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/flansmod/common/actions/contexts/GunContext$EItemStackLinkage
+[16May2025 04:19:21.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT was killed by magic whilst trying to escape Revived
+[16May2025 04:19:23.511] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'
+[16May2025 04:23:48.162] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[16May2025 04:24:29.833] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/vicmatskiv/pointblank/client/GunClientState$FireState
+[16May2025 04:25:10.061] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[16May2025 04:26:15.919] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/memory/MemoryStatus
+[16May2025 04:26:15.920] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/Behavior$Status
+[16May2025 04:26:15.939] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$OrderPolicy
+[16May2025 04:26:15.941] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$RunningPolicy

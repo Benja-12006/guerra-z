@@ -21652,3 +21652,59 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16May2025 04:12:30.197] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [16May2025 04:13:04.948] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/ftb/mods/ftbquests/quest/QuestObjectType
 [16May2025 04:13:16.013] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[16May2025 04:16:55.817] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 04:16:57.064] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 04:16:58.314] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 04:16:59.563] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 04:17:00.813] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 04:17:02.064] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 04:17:03.315] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 04:17:04.564] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 04:17:05.814] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 04:17:07.065] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 04:17:08.317] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 04:17:09.563] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 04:17:10.814] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 04:17:12.065] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 04:17:13.313] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 04:17:14.575] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 04:17:15.815] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 04:17:17.066] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 04:17:18.314] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 04:17:19.565] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 04:17:20.813] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 04:17:22.068] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 04:17:23.314] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 04:17:24.566] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 04:17:30.073] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 04:17:30.109] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 04:19:02.562] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[16May2025 04:19:21.717] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 04:19:21.718] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 04:19:21.718] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 04:19:21.721] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/flansmod/common/actions/contexts/GunContext$EItemStackLinkage
+[16May2025 04:19:21.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT was killed by magic whilst trying to escape Revived
+[16May2025 04:19:23.506] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 04:19:23.511] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'
+[16May2025 04:22:30.054] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 04:22:30.084] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 04:23:38.013] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 04:23:38.013] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 04:23:48.162] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[16May2025 04:24:29.833] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/vicmatskiv/pointblank/client/GunClientState$FireState
+[16May2025 04:25:10.061] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[16May2025 04:26:15.914] [Server thread/DEBUG] [mixin/]: Mixing ai.task.memory_change_counting.MultiTickTaskMixin from lithium.mixins.json into net.minecraft.world.entity.ai.behavior.Behavior
+[16May2025 04:26:15.914] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:ai.task.memory_change_counting.MultiTickTaskMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[16May2025 04:26:15.919] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/memory/MemoryStatus
+[16May2025 04:26:15.920] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/Behavior$Status
+[16May2025 04:26:15.932] [Server thread/DEBUG] [mixin/]: Mixing features.breeding_cap.tasks.AnimalMakeLoveMixin from servercore.common.mixins.json into net.minecraft.world.entity.ai.behavior.AnimalMakeLove
+[16May2025 04:26:15.933] [Server thread/DEBUG] [mixin/]: servercore.common.mixins.json:features.breeding_cap.tasks.AnimalMakeLoveMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[16May2025 04:26:15.934] [Server thread/DEBUG] [mixin/]: Mixing ai.task.replace_streams.CompositeTaskMixin from lithium.mixins.json into net.minecraft.world.entity.ai.behavior.GateBehavior
+[16May2025 04:26:15.934] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:ai.task.replace_streams.CompositeTaskMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[16May2025 04:26:15.939] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$OrderPolicy
+[16May2025 04:26:15.940] [Server thread/DEBUG] [mixin/]: Mixing ai.task.replace_streams.WeightedListMixin from lithium.mixins.json into net.minecraft.world.entity.ai.behavior.ShufflingList
+[16May2025 04:26:15.940] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:ai.task.replace_streams.WeightedListMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[16May2025 04:26:15.941] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$RunningPolicy
+[16May2025 04:26:18.416] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from sona.mixins.json into net.minecraft.world.CompoundContainer
+[16May2025 04:26:18.417] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.world.CompoundContainer
+[16May2025 04:26:18.417] [Server thread/DEBUG] [mixin/]: ftblibrary-common.mixins.json:CompoundContainerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)

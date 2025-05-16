@@ -8,5 +8,9 @@
 	started: { }
 	completed: { }
 	claimed_rewards: { }
-	player_data: { }
+	player_data: {
+		6a86f8812d9b3ea08c048da69ef0ca83: {
+			pinned_quests: ["0000000000000001"]
+		}
+	}
 }
