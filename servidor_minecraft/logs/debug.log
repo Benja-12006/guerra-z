@@ -22156,3 +22156,69 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16May2025 03:31:21.379] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[72f7c3b9-aac8-3ff4-a7ee-ecb698d17541] updated from 'Player:'natusaurius'['overworld']' to 'Player:'natusaurius'['overworld']'
 [16May2025 03:32:59.236] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [16May2025 03:32:59.236] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:33:17.289] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:33:17.289] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:34:30.404] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 03:34:30.431] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 03:34:58.089] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:34:58.089] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:34:58.597] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:35:01.086] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:35:01.087] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:35:10.236] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:35:10.236] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:35:10.793] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:35:11.286] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:35:11.988] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:35:12.687] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:35:13.192] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:35:13.239] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:35:13.239] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:35:13.788] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:35:14.287] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:35:15.289] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:35:15.837] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:35:16.036] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:35:16.036] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:35:16.389] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:35:16.986] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:35:17.485] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:35:17.986] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:35:18.591] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:35:18.836] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:35:18.836] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:35:19.086] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:35:19.586] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:35:20.186] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:35:20.687] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:35:21.386] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:35:21.887] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:35:22.389] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:35:23.037] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:35:23.591] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:35:24.141] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:35:24.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius died
+[16May2025 03:35:25.564] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:35:25.580] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[72f7c3b9-aac8-3ff4-a7ee-ecb698d17541] updated from 'Player:'natusaurius'['overworld']' to 'Player:'natusaurius'['overworld']'
+[16May2025 03:35:40.972] [Worker-Main-1/DEBUG] [mixin/]: Mixing JigsawPlacementMixin from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[16May2025 03:35:40.975] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:ruin3
+[16May2025 03:35:53.381] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[16May2025 03:36:05.661] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/util/BranchDestructionData$PosType
+[16May2025 03:36:51.187] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from sona.mixins.json into net.minecraft.world.CompoundContainer
+[16May2025 03:36:51.188] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.world.CompoundContainer
+[16May2025 03:36:51.188] [Server thread/DEBUG] [mixin/]: ftblibrary-common.mixins.json:CompoundContainerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[16May2025 03:37:25.849] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER
+[16May2025 03:37:25.850] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.ferreusveritas.dynamictrees.block.rooty.RootyBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[16May2025 03:37:38.682] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[16May2025 03:38:27.803] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/Action
+[16May2025 03:38:27.804] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/SortingHandler
+[16May2025 03:38:27.806] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/ScrollWheelHandler
+[16May2025 03:38:27.807] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 75
+[16May2025 03:38:27.812] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/InventoryHandler
+[16May2025 03:38:27.814] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@380c71dc=InventoryMapping{i=net.minecraft.world.CompoundContainer@380c71dc, c=net.minecraft.world.inventory.ChestMenu@5f4b41d6, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@5f4b41d6, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@5f4b41d6, b=81, e=89}}
+[16May2025 03:38:27.814] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@5f4b41d6, b=54, e=80}
+[16May2025 03:39:08.081] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[16May2025 03:39:30.369] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 03:39:30.396] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 03:40:02.282] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[16May2025 03:42:31.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius has made the advancement [Bonfire Lit]

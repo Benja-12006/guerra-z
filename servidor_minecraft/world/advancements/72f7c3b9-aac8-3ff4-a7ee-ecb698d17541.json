@@ -1908,12 +1908,168 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/fir_biomesoplenty_simple_bunk_ladder": {
+    "criteria": {
+      "has_planks": "2025-05-16 03:39:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-05-16 03:39:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2025-05-16 03:39:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2025-05-16 03:39:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-05-16 03:39:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-05-16 03:39:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_table_basic": {
+    "criteria": {
+      "has_planks": "2025-05-16 03:39:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-05-16 03:39:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2025-05-16 03:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-05-16 03:39:05 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-05-16 03:39:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_fir_planks": "2025-05-16 03:39:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_chair": {
+    "criteria": {
+      "has_planks": "2025-05-16 03:39:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-05-16 03:39:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-16 03:39:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-05-16 03:39:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-05-16 03:39:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_table_log": {
+    "criteria": {
+      "has_log": "2025-05-16 03:39:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2025-05-16 03:28:15 +0000",
       "minecraft:zombie": "2025-05-16 03:29:08 +0000"
     },
     "done": false
+  },
+  "biomesoplenty:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2025-05-16 03:39:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-16 03:39:00 +0000"
+    },
+    "done": true
+  },
+  "mekanismadditions:hurt_by_babies": {
+    "criteria": {
+      "baby_skeleton": "2025-05-16 03:32:59 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-16 03:39:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-05-16 03:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-05-16 03:39:24 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/fir_biomesoplenty_table_classic": {
+    "criteria": {
+      "has_planks": "2025-05-16 03:39:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-16 03:39:00 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
