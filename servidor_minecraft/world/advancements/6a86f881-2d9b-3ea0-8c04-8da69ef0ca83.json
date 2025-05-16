@@ -5599,11 +5599,17 @@
     },
     "done": true
   },
-  "farmersdelight:main/plant_all_crops": {
+  "immersive_weathering:immersive_weathering/bark_off": {
     "criteria": {
-      "wheat": "2025-05-16 04:51:55 +0000"
+      "wax_off": "2025-05-16 04:48:02 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "immersive_weathering:recipes/oak_bark": {
+    "criteria": {
+      "has_copper_block": "2025-05-16 04:48:04 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
@@ -5629,23 +5635,17 @@
     },
     "done": true
   },
-  "immersive_weathering:immersive_weathering/bark_off": {
-    "criteria": {
-      "wax_off": "2025-05-16 04:48:02 +0000"
-    },
-    "done": true
-  },
-  "immersive_weathering:recipes/oak_bark": {
-    "criteria": {
-      "has_copper_block": "2025-05-16 04:48:04 +0000"
-    },
-    "done": true
-  },
   "createloveandwar:recipes/misc/ball_bearings": {
     "criteria": {
       "has_iron_nugget": "2025-05-16 04:50:58 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-05-16 04:51:55 +0000"
+    },
+    "done": false
   },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
