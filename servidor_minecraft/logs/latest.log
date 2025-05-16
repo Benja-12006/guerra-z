@@ -5470,3 +5470,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16May2025 03:39:08.081] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
 [16May2025 03:40:02.282] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
 [16May2025 03:42:31.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius has made the advancement [Bonfire Lit]
+[16May2025 03:48:41.532] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[16May2025 03:48:56.231] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[16May2025 03:49:44.082] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[16May2025 03:50:23.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [benghijairo_GT: Teleported benghijairo_GT to natusaurius]
+[16May2025 03:50:59.245] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[16May2025 03:50:59.251] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[16May2025 03:52:01.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT was killed by magic whilst trying to escape Skeleton
+[16May2025 03:52:02.980] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'
+[16May2025 03:52:19.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [benghijairo_GT: Teleported natusaurius to benghijairo_GT]
+[16May2025 03:52:19.882] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[16May2025 03:52:22.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius has made the advancement [Sweet Dreams]

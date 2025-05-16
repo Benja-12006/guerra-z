@@ -22222,3 +22222,53 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16May2025 03:39:30.396] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [16May2025 03:40:02.282] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
 [16May2025 03:42:31.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius has made the advancement [Bonfire Lit]
+[16May2025 03:43:21.541] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:43:22.784] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:43:24.035] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:43:25.284] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:43:26.535] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:43:27.784] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:43:29.033] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:43:30.285] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:44:20.261] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:44:30.381] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 03:44:30.415] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 03:46:36.494] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:47:30.685] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:47:31.685] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:47:32.686] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:47:33.686] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:47:34.687] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:47:35.686] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:48:41.532] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[16May2025 03:48:56.231] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[16May2025 03:49:30.382] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 03:49:30.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 03:49:44.082] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[16May2025 03:49:52.435] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:49:52.435] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:50:23.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [benghijairo_GT: Teleported benghijairo_GT to natusaurius]
+[16May2025 03:50:59.245] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[16May2025 03:50:59.251] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[16May2025 03:51:48.285] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:51:48.285] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:51:49.163] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:51:49.435] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:51:49.435] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:51:50.433] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:51:50.434] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:51:50.584] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:51:50.584] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:51:54.884] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:51:54.884] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:51:58.834] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:51:58.835] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:52:01.533] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:52:01.534] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:52:01.534] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:52:01.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT was killed by magic whilst trying to escape Skeleton
+[16May2025 03:52:02.970] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[16May2025 03:52:02.980] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'
+[16May2025 03:52:19.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [benghijairo_GT: Teleported natusaurius to benghijairo_GT]
+[16May2025 03:52:19.882] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[16May2025 03:52:22.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius has made the advancement [Sweet Dreams]
