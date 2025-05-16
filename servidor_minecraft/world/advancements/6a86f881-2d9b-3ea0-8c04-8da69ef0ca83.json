@@ -4760,5 +4760,29 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-05-16 00:12:16 +0000"
+    },
+    "done": true
+  },
+  "thingamajigs:recipes/building_blocks/barrel_keg": {
+    "criteria": {
+      "get_barrel": "2025-05-16 00:15:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-05-16 00:15:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-05-16 00:15:44 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
