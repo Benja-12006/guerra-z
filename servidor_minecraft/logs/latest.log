@@ -5480,3 +5480,50 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16May2025 02:56:19.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benghijairo_GT> aprieta V
 [16May2025 02:56:30.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natusaurius> ya
 [16May2025 02:56:41.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natusaurius> no configure esto creo
+[16May2025 02:57:23.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius has made the advancement [First Day]
+[16May2025 02:57:23.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT has made the advancement [Keep Going]
+[16May2025 02:58:33.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benghijairo_GT> me escuchas??
+[16May2025 02:58:36.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natusaurius> nop
+[16May2025 02:58:44.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natusaurius> ala mierda
+[16May2025 02:59:07.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT was killed by magic whilst trying to escape Runner
+[16May2025 02:59:09.287] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'
+[16May2025 02:59:26.250] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benghijairo_GT lost connection: Disconnected
+[16May2025 02:59:26.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT left the game
+[16May2025 02:59:26.255] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client benghijairo_GT
+[16May2025 02:59:26.310] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16May2025 02:59:36.168] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benghijairo_GT[/127.119.26.239:59463] logged in with entity id 3883 at (2445.5983864339514, 71.0, -119.30000001192093)
+[16May2025 02:59:36.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT joined the game
+[16May2025 02:59:36.257] [Server thread/INFO] [Jade/]: Syncing config to benghijairo_GT (6a86f881-2d9b-3ea0-8c04-8da69ef0ca83)
+[16May2025 02:59:36.264] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'
+[16May2025 02:59:36.423] [Server thread/INFO] [ping-wheel/]: Channel update: benghijairo_GT -> default
+[16May2025 02:59:36.423] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of benghijairo_GT (18)
+[16May2025 02:59:36.423] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to benghijairo_GT
+[16May2025 02:59:39.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius was killed by magic whilst trying to escape Runner
+[16May2025 02:59:40.591] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[72f7c3b9-aac8-3ff4-a7ee-ecb698d17541] updated from 'Player:'natusaurius'['overworld']' to 'Player:'natusaurius'['overworld']'
+[16May2025 03:00:02.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <natusaurius> hay que tratar de llevar esta orda lejos
+[16May2025 03:00:17.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benghijairo_GT> tenes razon
+[16May2025 03:00:18.013] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_3199
+[16May2025 03:00:21.364] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benghijairo_GT lost connection: Timed out
+[16May2025 03:00:21.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT left the game
+[16May2025 03:00:21.366] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client benghijairo_GT
+[16May2025 03:00:25.364] [Worker-Main-2/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER
+[16May2025 03:00:25.364] [Worker-Main-2/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.ferreusveritas.dynamictrees.block.rooty.RootyBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[16May2025 03:00:44.656] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/memory/MemoryStatus
+[16May2025 03:00:44.656] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/Behavior$Status
+[16May2025 03:00:44.681] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$OrderPolicy
+[16May2025 03:00:44.683] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$RunningPolicy
+[16May2025 03:00:47.696] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benghijairo_GT[/127.119.26.239:41689] logged in with entity id 4377 at (2445.5866226344456, 71.0, -119.30000001192093)
+[16May2025 03:00:47.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT joined the game
+[16May2025 03:00:47.778] [Server thread/INFO] [Jade/]: Syncing config to benghijairo_GT (6a86f881-2d9b-3ea0-8c04-8da69ef0ca83)
+[16May2025 03:00:47.791] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'
+[16May2025 03:00:47.985] [Server thread/INFO] [ping-wheel/]: Channel update: benghijairo_GT -> default
+[16May2025 03:00:47.985] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of benghijairo_GT (18)
+[16May2025 03:00:47.986] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to benghijairo_GT
+[16May2025 03:00:53.530] [Worker-Main-3/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER
+[16May2025 03:00:53.530] [Worker-Main-3/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.ferreusveritas.dynamictrees.block.rooty.RootyBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[16May2025 03:01:03.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius was killed by magic whilst trying to escape Runner
+[16May2025 03:01:04.355] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[72f7c3b9-aac8-3ff4-a7ee-ecb698d17541] updated from 'Player:'natusaurius'['overworld']' to 'Player:'natusaurius'['overworld']'
+[16May2025 03:01:30.201] [FastSuite Recipe Lookup Thread: 2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting pepjebs/mapatlases/utils/MapType
+[16May2025 03:02:03.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius was killed by magic whilst trying to escape Runner
+[16May2025 03:02:05.139] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[72f7c3b9-aac8-3ff4-a7ee-ecb698d17541] updated from 'Player:'natusaurius'['overworld']' to 'Player:'natusaurius'['overworld']'
+[16May2025 03:05:14.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [benghijairo_GT: Teleported natusaurius to benghijairo_GT]
