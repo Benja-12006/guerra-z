@@ -67,8 +67,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-05-16 03:55:16 +0000",
       "minecraft:beach": "2025-05-16 02:49:22 +0000",
-      "minecraft:dark_forest": "2025-05-16 03:00:51 +0000"
+      "minecraft:dark_forest": "2025-05-16 03:00:51 +0000",
+      "minecraft:river": "2025-05-16 03:54:52 +0000",
+      "minecraft:lush_caves": "2025-05-16 03:55:39 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-16 03:54:49 +0000"
     },
     "done": false
   },
@@ -1986,6 +1990,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-16 03:52:22 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/fir_biomesoplenty_simple_bunk_ladder": {
     "criteria": {
       "has_planks": "2025-05-16 03:39:00 +0000"
@@ -2618,6 +2628,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-05-16 03:57:16 +0000",
       "minecraft:spider": "2025-05-16 03:28:15 +0000",
       "minecraft:zombie": "2025-05-16 03:29:08 +0000"
     },
@@ -2920,6 +2931,12 @@
   "pfm:recipes/furniture/fir_biomesoplenty_table_classic": {
     "criteria": {
       "has_planks": "2025-05-16 03:39:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-05-16 03:59:15 +0000"
     },
     "done": true
   },
